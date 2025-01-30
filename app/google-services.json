@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "658118884432",
+    "firebase_url": "https://vehiclespeed-e0cc8-default-rtdb.firebaseio.com",
+    "project_id": "vehiclespeed-e0cc8",
+    "storage_bucket": "vehiclespeed-e0cc8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658118884432:android:f2150b8030ecef51ace555",
+        "android_client_info": {
+          "package_name": "com.example.vehiclecontroller"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlKCQiJFPVvakXc6gDmGrWOklLOmP8ksI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658118884432:android:454c7b221aa19857ace555",
+        "android_client_info": {
+          "package_name": "com.example.vehiclereceiver"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlKCQiJFPVvakXc6gDmGrWOklLOmP8ksI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
